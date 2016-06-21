@@ -1,0 +1,29 @@
+body{
+  background-color: #F97559;
+}
+h1{
+  color:#43C59A;
+  font-family:fantasy;
+  font-size:30px;
+  background-color: #C2500B;
+}
+h2{
+  color: black;
+  font-family: fantasy;
+  font-size:3em;
+  background-color: ·F0AD19;
+  text-align: center;
+}
+img {
+width: 100px;
+height: auto;
+
+}
+.class="imagenManzana"{
+  width: 20px;
+  height: auto;
+}
+id="lala"{
+
+
+}
